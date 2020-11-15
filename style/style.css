@@ -293,9 +293,9 @@ body {
   }
 
   .nine p {
-    font-size: 0.9rem;
+    font-size: 0.7rem;
     font-weight: lighter;
-    height: 1100px;
+    height: auto;
     overflow: scroll;
   }
 }
